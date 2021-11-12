@@ -1,6 +1,6 @@
-# Erica Kido Shimomoto
+# Fellipe Dias Tavares de Simas
 
-e-mail: erica (at) cvlab.cs.tsukuba.ac.jp
+e-mail: simas.fellipe@gmail.com
 
 I am currently pursuing my Doctorate degree (3rd year) at the [University of Tsukuba](https://www.tsukuba.ac.jp/en/) advised by Dr. [Kazuhiro Fukui](http://www.cvlab.cs.tsukuba.ac.jp/~kfukui/english/indexE.html). I am a member of the [Computer Vision Laboratory](https://home.cvlab.cs.tsukuba.ac.jp). 
 
