@@ -6,7 +6,7 @@ Recently I obtained my Bachelor degree (Bs) at the [Pontifícia Universidade Cat
 
 My main research interests are about anthropogenic actions on the environment, specifically about the impacts caused on the ocean due to climate change. I have a big interest on understanding better about the effects of the ocean acidification and how it could warm the organisms' ecology, behavior and biology. I intend to execute a research project about this topic on my master's degree. If you wanna read about my project, please contact me via email.
 
-My native language is portuguese but I have studied english for 5 years during the high school, and now I am studying japanese at the basic level. Also during the high school, I made a computer technician course, so I am a little bit familiarizaed with html, css and some computer basics.
+My native language is portuguese but I have studied english for 5 years during the high school, and now I am studying japanese at the basic level. Also during the high school, I made a computer technician course, so I am a little bit familiarizaed with html, css and some computer basics. Because of my big interest on marine biology, on 2019 I acquired a Scuba Diving Cerfication by PADI [(Open Water Diver)](https://www.padi.com/courses/open-water-diver?utm_campaign=ww-en-entry-pros-search-seekadventure&utm_source=google.com&utm_medium=cpc&utm_term=ww-en-entry-pros-search-open_water_diver&crid=618705881&gclid=Cj0KCQiAys2MBhDOARIsAFf1D1cLQ-XNde-q6qHI4Da11xG527x7oixgR749vZ-eLyt4LI55FckGnJEaAsD5EALw_wcB).
 
 
 ## Publications
