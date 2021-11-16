@@ -11,40 +11,11 @@ My native language is portuguese but I have studied english for 5 years during t
 
 ## Publications
 
-### Journals
-1. E Shimomoto, F Portet, K Fukui, Text classification based on the word subspace representation - Pattern Analysis and Applications (PAA, 2021). [[pdf](https://www.researchgate.net/publication/350020381_Text_classification_based_on_the_word_subspace_representation)][[pdf](https://drive.google.com/file/d/1oB5qLfs1TbhQrNRM7q-KdEmtPvXVdgrZ/view)]
-* This is a post-peer-review, pre-copyedit version of an article published in the Journal of Pattern Analysis and Applications. The final authenticated version is available online at http://dx.doi.org/10.1007/s10044-021-00960-6.
-
-### International Conferences
+### Conferences
 1. E Shimomoto, L Souza, B Gatto, K Fukui, News2meme: An Automatic Content Generator from News Based on Word Subspaces from Text and Image (MVA2019). [[pdf](https://www.researchgate.net/publication/333105226_News2meme_An_Automatic_Content_Generator_from_News_Based_on_Word_Subspaces_from_Text_and_Image)][pdf](http://www.mva-org.jp/Proceedings/2019/papers/05-14.pdf)]
 2. E Shimomoto, L Souza, B Gatto, K Fukui, Text Classification based on Word Subspace with Term-Frequency (IJCNN18). [[pdf](https://arxiv.org/abs/1806.03125)][[pdf](https://ieeexplore.ieee.org/abstract/document/8489458)]
 3. E Shimomoto, A Kimura, R Belém, A faster face detection method combining Bayesian and Haar Cascade Classifiers (Chilecon15). [[pdf](https://ieeexplore.ieee.org/document/7400344)][[pdf](https://www.researchgate.net/publication/304408380_A_faster_face_detection_method_combining_Bayesian_and_Haar_Cascade_Classifiers)]
 
-## Honor and Awards
-### 2021
-- Computer Science Special Award for the organization of the 2020 UGA & UT Workshop.
-
-### 2020
-- Young Researcher Training Program funding Awarded by the University of Tsukuba ([システム情報工学研究科若手研究者育成プログラム](https://www.sie.tsukuba.ac.jp/edu/re_program/)).
-- Program chair for the [2020 UGA & UT Workshop](https://uga-ut-ws.github.io/index.html), a collaborative workshop between the University of Grenoble-Alpes (France) and the University of Tsukuba (Japan).
-
-### 2019
-- Best Poster Award for the paper entitled "News2meme: An Automatic Content Generator from News Based on Word Subspaces from Text and Image", at the IAPR MVA 2019, Japan.
-
-### 2016 - current
-- MEXT Scholarship Awarded by the Japanese Government. 
- 
-### 2015
-- National leader assistant of the Brazilian delegation in the [Ship for the World Youth Leaders](http://www.swyaabrasil.org) (SWY27).
-
-### 2012 - 2013
-- Brazilian Government Science Without Borders Scholarship to study at the University of California in Berkeley, USA. 
-
-### 2008
-- Bronze medal at the Amazonas Chemistry Olympiad.
-
-### 2007
-- Honorable Mention at the Brazilian Physics Olympiad.
 
 ## Education
 - 2021 - Current: Japanese course. [ICO](https://icosite.com.br/) (Asian culture institute). Minas Gerais, Brazil.
