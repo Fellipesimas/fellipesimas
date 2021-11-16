@@ -2,7 +2,7 @@
 
 e-mail: simas.fellipe@gmail.com
 
-I am currently pursuing my Doctorate degree (3rd year) at the [University of Tsukuba](https://www.tsukuba.ac.jp/en/) advised by Dr. [Kazuhiro Fukui](http://www.cvlab.cs.tsukuba.ac.jp/~kfukui/english/indexE.html). I am a member of the [Computer Vision Laboratory](https://home.cvlab.cs.tsukuba.ac.jp). 
+Recently I obtained my Bachelor degree (Bs) at the [Pontifícia Universidade Católicas de Minas Gerais](https://www.pucminas.br/destaques/Paginas/default.aspx) advised by [Eugênio Batista Leite](https://www.linkedin.com/in/eug%C3%AAnio-batista-leite-4310b670/) MSc. During my Biological Sciences undergraduate course, I was also member of [Triatomíneos](http://www.cpqrr.fiocruz.br/pg/pesquisa/grupos-de-pesquisa/22-2/) research laboratory at Fiocruz Minas, in which I was advised by Dr. [Liléia Diotaiuti](https://www.researchgate.net/profile/Lileia-Diotaiuti) and Dr. [Rita de Cássia Moreira](http://www.cpqrr.fiocruz.br/pg/team_member/rita-de-cassia-moreira-de-souza-2/).
 
 My research topics involve natural language processing, computer vision and pattern recognition. More specifically, my main line of study is the investigation of subspace based-methods and its applications on word embedding. 
 
