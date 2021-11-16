@@ -4,11 +4,10 @@ e-mail: simas.fellipe@gmail.com
 
 Recently I obtained my Bachelor degree (Bs) at the [Pontifícia Universidade Católicas de Minas Gerais](https://www.pucminas.br/destaques/Paginas/default.aspx) advised by [Eugênio Batista Leite](https://www.linkedin.com/in/eug%C3%AAnio-batista-leite-4310b670/) MSc. During my Biological Sciences undergraduate course, I was also member of [Triatomíneos](http://www.cpqrr.fiocruz.br/pg/pesquisa/grupos-de-pesquisa/22-2/) research laboratory at Fiocruz Minas, in which I was advised by Dr. [Liléia Diotaiuti](https://www.researchgate.net/profile/Lileia-Diotaiuti) and Dr. [Rita de Cássia Moreira](http://www.cpqrr.fiocruz.br/pg/team_member/rita-de-cassia-moreira-de-souza-2/).
 
-My main research interests are about anthropogenic actions on the environment, specifically about the impacts caused on the ocean due to climate change. I have a big interest on understanding better about the effects of the ocean acidification and how it could warm the organisms' ecology, behavior and biology.  
+My main research interests are about anthropogenic actions on the environment, specifically about the impacts caused on the ocean due to climate change. I have a big interest on understanding better about the effects of the ocean acidification and how it could warm the organisms' ecology, behavior and biology. I intend to execute a research project about this topic on my master's degree. If you wanna read about my project, please contact me via email.
 
-I love seeing computers doing human jobs really well. However, I am even more interested in understanding how they can do such jobs so well. If you cannot understand it, how can you trust it?
+My native language is portuguese but I have studied english for 5 years during the high school, and now I am studying japanese at the basic level. Also during the high school, I made a computer technician course, so I am a little bit familiarizaed with html, css and some computer basics.
 
-I also enjoy developing applications involving robotics and electronics.
 
 ## Publications
 
