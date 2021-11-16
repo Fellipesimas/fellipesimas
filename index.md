@@ -39,4 +39,4 @@ My native language is portuguese but I have studied english for 5 years during t
 
 ## Work Experience
 - 2017 - 2018: INOT - Instituto de observação da terra (Earth Observation Institute)
-         * INOT (Earth Observation Institute) is a NGO that aims the species' conservation at Serra do Cipó and Serra do Espinhaço National Parks through research and environmental education projects.My activities were all focused on a environmental education project. I made interviews' transcription, literatura review and literature research about the species present there.
+* This is a post-peer-review, pre-copyedit version of an article published in the Journal of Pattern Analysis and Applications. The final authenticated version is available online at http://dx.doi.org/10.1007/s10044-021-00960-6.
