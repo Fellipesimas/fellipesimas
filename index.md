@@ -47,11 +47,24 @@ My native language is portuguese but I have studied english for 5 years during t
 - Honorable Mention at the Brazilian Physics Olympiad.
 
 ## Education
-- 2019 - Current: Doctorate degree in Computer Science. University of Tsukuba, Japan, Graduate School of Systems and Information Engineering, Department of Computer Science. 
-- 2017 - 2019: Master's degree in Computer Science. University of Tsukuba, Japan, Graduate School of Systems and Information Engineering, Department of Computer Science. 
-- 2016 - 2017: Research Student. University of Tsukuba, Japan, Graduate School of Systems and Information Engineering, Department of Computer Science. 
-- 2009 - 2014:  Bachelor of Engineering. [Amazonas State University](http://www1.uea.edu.br), Brazil. Department of Control and Automation Engineering.
-- 2012 - 2013: One year sandwich undergraduate student. [University of California, Berkeley](https://www.berkeley.edu), USA. Electrical Engineering and Computer Science Department.
+- 2021 - Current: Japanese course. [ICO](https://icosite.com.br/) (Asian culture institute). Minas Gerais, Brazil.
+- 2017 - 2021: Bachelor degree in Biological Sciences. PUC Minas, Brazil, Department of Biological Sciences. 
+- 2008 - 2011: Computer technician. [Cotemig High School](https://www.cotemig.com.br/), Brazil. 
+- 2007 - 2012: English course. [CCAA](https://www.ccaa.com.br/), Minas Gerais - Brazil. 
+
+## Workshops, mini courses and other certifications
+- Advanced topics in behavior ecology. [UNA](https://www.una.br/), Brazil, 2016.
+- Lepidoptera ecology and identification. UNA, Brazil, 2016.
+- Freshwater fishes reproductive biology. UNA, Brazil, 2016.
+- Reef fishes bioecology. PUC Minas, Brazil, 2017.
+- Use and maintenance of pHmeter. [Fiocruz Minas](http://www.cpqrr.fiocruz.br/pg/), Brazil, 2018.
+- General hydrology. [ANA](https://www.gov.br/ana/pt-br) (Water national agency), Brazil, 2018.
+- Water in the right measure. ANA (Water national agency), Brazil, 2018.
+- Water pathways. ANA (Water national agency), Brazil, 2018.
+- Fiocruz insertion program for new employees. Fiocruz Minas, Brazil, 2018.
+- Marine biology. [IRV Ambiental](https://www.irvambiental.com.br/), Brazil, 2018.
+- Biological and epidemiological aspects of Schistosomiasis, Chagas disease and Dengue. Fiocruz Minas, Brazil, 2019.
+- Open Water Diver. PADI, 2019.
 
 ## Work Experience
 - 2021.04 - Current: Research Assistant at [Knowledge and Information Research Team](https://www.airc.aist.go.jp/en/kirt/), Artificial Intelligence Research Center, National Institute of Advanced Industrial Science and Technology (AIST).
