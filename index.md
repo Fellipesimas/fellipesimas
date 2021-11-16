@@ -23,7 +23,7 @@ My native language is portuguese but I have studied english for 5 years during t
 - 2008 - 2011: Computer technician. [Cotemig High School](https://www.cotemig.com.br/), Brazil. 
 - 2007 - 2012: English course. [CCAA](https://www.ccaa.com.br/), Minas Gerais - Brazil. 
 
-## Workshops, mini courses and other certifications
+### Workshops, mini courses and other certifications
 - Advanced topics in behavior ecology. [UNA](https://www.una.br/), Brazil, 2016.
 - Lepidoptera ecology and identification. UNA, Brazil, 2016.
 - Freshwater fishes reproductive biology. UNA, Brazil, 2016.
