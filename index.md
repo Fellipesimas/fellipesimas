@@ -38,5 +38,13 @@ My native language is portuguese but I have studied english for 5 years during t
 - Open Water Diver. PADI, 2019.
 
 ## Work Experience
-- 2017 - 2018: INOT - Instituto de observação da terra (Earth Observation Institute)
-* This is a post-peer-review, pre-copyedit version of an article published in the Journal of Pattern Analysis and Applications. The final authenticated version is available online at http://dx.doi.org/10.1007/s10044-021-00960-6.
+- 2017 - 2018: INOT - Instituto de observação da terra (Earth Observation Institute), Brazil.
+INOT (Earth Observation Institute) is a NGO that aims the species' conservation at Serra do Cipó and Serra do Espinhaço National Parks through research and environmental education projects.My activities were all focused on a environmental education project. I made interviews' transcription, literatura review and literature research abou the species present there.
+
+
+- 2018 - 2019: Fundação Oswaldo Cruz, Brazil.
+My main function were focused in a research project called: Assessment of household infestation by triatomines in Espinosa city, Minas Gerais." The acitivities included DNA extraction, PCR, electrophoresis, literature research through online platforms and writing scientific documents.
+
+
+- 2018 - 2019: Pontifical Catholic University of Minas Gerais, Brazil.
+Provide assistance on complementary studies through extra classes in two subjects: Invertebrate zoology and Spermatophytes' biology.
