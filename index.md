@@ -38,20 +38,5 @@ My native language is portuguese but I have studied english for 5 years during t
 - Open Water Diver. PADI, 2019.
 
 ## Work Experience
-- 2021.04 - Current: Research Assistant at [Knowledge and Information Research Team](https://www.airc.aist.go.jp/en/kirt/), Artificial Intelligence Research Center, National Institute of Advanced Industrial Science and Technology (AIST).
-- 2021.01 - 2021.03: Technical Staff at [Knowledge and Information Research Team](https://www.airc.aist.go.jp/en/kirt/), Artificial Intelligence Research Center, National Institute of Advanced Industrial Science and Technology (AIST).
-- 2018 - 2020: Teaching Assistant at the University of Tsukuba for the following courses:
->
-> Computer Science seminar (Master's, 2020).
->
-> Image Recognition Engineering (Undergraduate, 2020).
->
-> Computer Science midterm presentation and seminar (Master's, 2019).
->
->  Image Recognition Engineering (Undergraduate, 2018).
-
-- 2018.08 - 2018.10:  Research Assistant at the University of Tsukuba, in collaboration with the Center for Artificial Intelligence Research ([C-Air](https://air.tsukuba.ac.jp/en/)) - Japan.
-- 2015 - 2016: Network protocol engineer at Samsung Institute of Informatics Amazonia ([SIDIA](https://www.sidia.com)) - Brazil.
-- 2015 - 2016: Research Assistant at Innovation Center in Control and Automation (CICARI) - Brazil.
-- 2013 - 2014: Research and development intern at Envision Industry of Electronic Products LTDA - Brazil.
-- 2009 - 2012:  Grantee in the research program PAIC at the Amazonas State University - Brazil.
+- 2017 - 2018: INOT - Instituto de observação da terra (Earth Observation Institute)
+* INOT (Earth Observation Institute) is a NGO that aims the species' conservation at Serra do Cipó and Serra do Espinhaço National Parks through research and environmental education projects.My activities were all focused on a environmental education project. I made interviews' transcription, literatura review and literature research about the species present there.
