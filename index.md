@@ -13,9 +13,13 @@ My native language is portuguese but I have studied english for 5 years during t
 
 ### Conferences
 1. SIMAS, F.D.T.; DIOTAIUTI, L.; SOUZA, R.C.M. Assessment of household infestation by triatomines in Espinosa city, Minas Gerais. Annual scientific initiation meeting, Fiocruz Minas, 2018. (Poster)
+
 2. MORAES, E.R.; SIMAS, F.D.T.; MIRANDA, A.M.; CARNEIRO, A.G.L.; CAETANO, C.G.; FAUSTINO, D.L.; FARIA, F.S.F.; MIRANDA, A.M.S. Use of nematode gall in Miconia albicans (melastomataceae) as a habitat quality bioindicator in an urban forest fragment. Health and environment meeting, UNA, 2018. (Poster)
+
 3. CHIODI, V.L.X.; CRUZ, S.A.C.F.; COELHO, L.M.C.; TOZO, M.A.S.; SIMAS, F.D.T.; PINTO, L.S.; ANDRADE, M.A.; FERREIRA, W.B. Serra da Piedade Sanctuary, Caeté, Minas Gerais - São Francisco track: A multidisciplinar point of view. Biology Journey, PUC Minas, 2018. (Poster)
+
 4. SIMAS, F.D.T.; ANDRADE, I.M.; MARLIERE, N.P.; LOPES, B.T.; VIEIRA, T.M.; DIOTAIUTI, L.; SOUZA, R.C.M. Assessment of household infestation by triatomines in Espinosa city, Minas Gerais. 55th Congress of the Brazilian Society of Tropical Medicine and XXVI Congress of the Brazilian Society of Parasitology, 2019. (Poster)
+
 5. SIMAS, F.D.T.; DIOTAIUTI, L.; SOUZA, R.C.M. Assessment of household infestation by triatomines in Espinosa city, Minas Gerais. Annual scientific initiation meeting, Fiocruz Minas, 2019. (Oral presentation)
 
 
