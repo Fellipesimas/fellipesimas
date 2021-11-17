@@ -12,9 +12,11 @@ My native language is portuguese but I have studied english for 5 years during t
 ## Publications
 
 ### Conferences
-1. E Shimomoto, L Souza, B Gatto, K Fukui, News2meme: An Automatic Content Generator from News Based on Word Subspaces from Text and Image (MVA2019). [[pdf](https://www.researchgate.net/publication/333105226_News2meme_An_Automatic_Content_Generator_from_News_Based_on_Word_Subspaces_from_Text_and_Image)][pdf](http://www.mva-org.jp/Proceedings/2019/papers/05-14.pdf)]
-2. E Shimomoto, L Souza, B Gatto, K Fukui, Text Classification based on Word Subspace with Term-Frequency (IJCNN18). [[pdf](https://arxiv.org/abs/1806.03125)][[pdf](https://ieeexplore.ieee.org/abstract/document/8489458)]
-3. E Shimomoto, A Kimura, R Belém, A faster face detection method combining Bayesian and Haar Cascade Classifiers (Chilecon15). [[pdf](https://ieeexplore.ieee.org/document/7400344)][[pdf](https://www.researchgate.net/publication/304408380_A_faster_face_detection_method_combining_Bayesian_and_Haar_Cascade_Classifiers)]
+1. SIMAS, F.D.T.; DIOTAIUTI, L.; SOUZA, R.C.M. Assessment of household infestation by triatomines in Espinosa city, Minas Gerais. Annual scientific initiation meeting, Fiocruz Minas, 2018. (Poster)
+2. MORAES, E.R.; SIMAS, F.D.T.; MIRANDA, A.M.; CARNEIRO, A.G.L.; CAETANO, C.G.; FAUSTINO, D.L.; FARIA, F.S.F.; MIRANDA, A.M.S. Use of nematode gall in Miconia albicans (melastomataceae) as a habitat quality bioindicator in an urban forest fragment. Health and environment meeting, UNA, 2018. (Poster)
+3. CHIODI, V.L.X.; CRUZ, S.A.C.F.; COELHO, L.M.C.; TOZO, M.A.S.; SIMAS, F.D.T.; PINTO, L.S.; ANDRADE, M.A.; FERREIRA, W.B. Serra da Piedade Sanctuary, Caeté, Minas Gerais - São Francisco track: A multidisciplinar point of view. Biology Journey, PUC Minas, 2018. (Poster)
+4. SIMAS, F.D.T.; ANDRADE, I.M.; MARLIERE, N.P.; LOPES, B.T.; VIEIRA, T.M.; DIOTAIUTI, L.; SOUZA, R.C.M. Assessment of household infestation by triatomines in Espinosa city, Minas Gerais. 55th Congress of the Brazilian Society of Tropical Medicine and XXVI Congress of the Brazilian Society of Parasitology, 2019. (Poster)
+5. SIMAS, F.D.T.; DIOTAIUTI, L.; SOUZA, R.C.M. Assessment of household infestation by triatomines in Espinosa city, Minas Gerais. Annual scientific initiation meeting, Fiocruz Minas, 2019. (Oral presentation)
 
 
 ## Education
