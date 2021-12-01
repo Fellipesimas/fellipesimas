@@ -17,15 +17,17 @@ My native language is portuguese but I have studied english for 5 years during t
 
 
 ### Conferences
-1. SIMAS, F.D.T.; DIOTAIUTI, L.; SOUZA, R.C.M. Assessment of household infestation by triatomines in Espinosa city, Minas Gerais. Annual scientific initiation meeting, Fiocruz Minas, 2018. (Poster)
 
-2. MORAES, E.R.; SIMAS, F.D.T.; MIRANDA, A.M.; CARNEIRO, A.G.L.; CAETANO, C.G.; FAUSTINO, D.L.; FARIA, F.S.F.; MIRANDA, A.M.S. Use of nematode gall in Miconia albicans (melastomataceae) as a habitat quality bioindicator in an urban forest fragment. Health and environment meeting, UNA, 2018. (Poster)
+1. SIMAS, F.D.T.; DIOTAIUTI, L.; SOUZA, R.C.M. Assessment of household infestation by triatomines in Espinosa city, Minas Gerais. Annual scientific initiation meeting, Fiocruz Minas, 2019. (Oral presentation)
+
+2. SIMAS, F.D.T.; ANDRADE, I.M.; MARLIERE, N.P.; LOPES, B.T.; VIEIRA, T.M.; DIOTAIUTI, L.; SOUZA, R.C.M. Assessment of household infestation by triatomines in Espinosa city, Minas Gerais. 55th Congress of the Brazilian Society of Tropical Medicine and XXVI Congress of the Brazilian Society of Parasitology, 2019. (Poster)
 
 3. CHIODI, V.L.X.; CRUZ, S.A.C.F.; COELHO, L.M.C.; TOZO, M.A.S.; SIMAS, F.D.T.; PINTO, L.S.; ANDRADE, M.A.; FERREIRA, W.B. Serra da Piedade Sanctuary, Caeté, Minas Gerais - São Francisco track: A multidisciplinar point of view. Biology Journey, PUC Minas, 2018. (Poster)
 
-4. SIMAS, F.D.T.; ANDRADE, I.M.; MARLIERE, N.P.; LOPES, B.T.; VIEIRA, T.M.; DIOTAIUTI, L.; SOUZA, R.C.M. Assessment of household infestation by triatomines in Espinosa city, Minas Gerais. 55th Congress of the Brazilian Society of Tropical Medicine and XXVI Congress of the Brazilian Society of Parasitology, 2019. (Poster)
+4. MORAES, E.R.; SIMAS, F.D.T.; MIRANDA, A.M.; CARNEIRO, A.G.L.; CAETANO, C.G.; FAUSTINO, D.L.; FARIA, F.S.F.; MIRANDA, A.M.S. Use of nematode gall in Miconia albicans (melastomataceae) as a habitat quality bioindicator in an urban forest fragment. Health and environment meeting, UNA, 2018. (Poster)
 
-5. SIMAS, F.D.T.; DIOTAIUTI, L.; SOUZA, R.C.M. Assessment of household infestation by triatomines in Espinosa city, Minas Gerais. Annual scientific initiation meeting, Fiocruz Minas, 2019. (Oral presentation)
+5. SIMAS, F.D.T.; DIOTAIUTI, L.; SOUZA, R.C.M. Assessment of household infestation by triatomines in Espinosa city, Minas Gerais. Annual scientific initiation meeting, Fiocruz Minas, 2018. (Poster)
+
 
 
 ## Education
@@ -35,27 +37,35 @@ My native language is portuguese but I have studied english for 5 years during t
 - 2007 - 2012: English course. [CCAA](https://www.ccaa.com.br/), Minas Gerais - Brazil. 
 
 ### Workshops, mini courses and other certifications
-- Advanced topics in behavior ecology. [UNA](https://www.una.br/), Brazil, 2016.
-- Lepidoptera ecology and identification. UNA, Brazil, 2016.
-- Freshwater fishes reproductive biology. UNA, Brazil, 2016.
-- Reef fishes bioecology. PUC Minas, Brazil, 2017.
-- Use and maintenance of pHmeter. [Fiocruz Minas](http://www.cpqrr.fiocruz.br/pg/), Brazil, 2018.
-- General hydrology. [ANA](https://www.gov.br/ana/pt-br) (Water national agency), Brazil, 2018.
-- Water in the right measure. ANA (Water national agency), Brazil, 2018.
-- Water pathways. ANA (Water national agency), Brazil, 2018.
-- Fiocruz insertion program for new employees. Fiocruz Minas, Brazil, 2018.
-- Marine biology. [IRV Ambiental](https://www.irvambiental.com.br/), Brazil, 2018.
-- Biological and epidemiological aspects of Schistosomiasis, Chagas disease and Dengue. Fiocruz Minas, Brazil, 2019.
 - Open Water Diver. PADI, 2019.
+- Biological and epidemiological aspects of Schistosomiasis, Chagas disease and Dengue. Fiocruz Minas, Brazil, 2019.
+- Marine biology. [IRV Ambiental](https://www.irvambiental.com.br/), Brazil, 2018.
+- Fiocruz insertion program for new employees. Fiocruz Minas, Brazil, 2018.
+- Water pathways. ANA (Water national agency), Brazil, 2018.
+- Water in the right measure. ANA (Water national agency), Brazil, 2018.
+- General hydrology. [ANA](https://www.gov.br/ana/pt-br) (Water national agency), Brazil, 2018.
+- Use and maintenance of pHmeter. [Fiocruz Minas](http://www.cpqrr.fiocruz.br/pg/), Brazil, 2018.
+- Reef fishes bioecology. PUC Minas, Brazil, 2017.
+- Freshwater fishes reproductive biology. UNA, Brazil, 2016.
+- Lepidoptera ecology and identification. UNA, Brazil, 2016.
+- Advanced topics in behavior ecology. [UNA](https://www.una.br/), Brazil, 2016.
+
 
 ## Work Experience
-- 2017 - 2018: INOT - Instituto de observação da terra (Earth Observation Institute), Brazil.
-- INOT (Earth Observation Institute) is a NGO that aims the species' conservation at Serra do Cipó and Serra do Espinhaço National Parks through research and environmental education projects.My activities were all focused on a environmental education project. I made interviews' transcription, literatura review and literature research abou the species present there.
+
+- 2018 - 2019: Pontifical Catholic University of Minas Gerais, Brazil.
+- My main function was providing assistance on complementary studies through extra classes in two subjects: Invertebrate zoology and Spermatophytes' biology.
 
 
 - 2018 - 2019: Fundação Oswaldo Cruz, Brazil.
 - My main function were focused in a research project called: Assessment of household infestation by triatomines in Espinosa city, Minas Gerais." The acitivities included DNA extraction, PCR, electrophoresis, literature research through online platforms and writing scientific documents.
 
 
-- 2018 - 2019: Pontifical Catholic University of Minas Gerais, Brazil.
-- My main function was providing assistance on complementary studies through extra classes in two subjects: Invertebrate zoology and Spermatophytes' biology.
+- 2017 - 2018: INOT - Instituto de observação da terra (Earth Observation Institute), Brazil.
+- INOT (Earth Observation Institute) is a NGO that aims the species' conservation at Serra do Cipó and Serra do Espinhaço National Parks through research and environmental education projects.My activities were all focused on a environmental education project. I made interviews' transcription, literatura review and literature research abou the species present there.
+
+
+
+
+
+
