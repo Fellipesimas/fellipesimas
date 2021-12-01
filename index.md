@@ -11,6 +11,11 @@ My native language is portuguese but I have studied english for 5 years during t
 
 ## Publications
 
+###Papers
+
+1. SIMAS.F.D.T.; LEITE, E.B. Perceptions about marine environmental issues by citizens who are mostly from Minas Gerais state (Brazil). Revista Brasileira De Educação Ambiental (RevBEA), 16(6), 494–510. https://doi.org/10.34024/revbea.2021.v16.12354
+
+
 ### Conferences
 1. SIMAS, F.D.T.; DIOTAIUTI, L.; SOUZA, R.C.M. Assessment of household infestation by triatomines in Espinosa city, Minas Gerais. Annual scientific initiation meeting, Fiocruz Minas, 2018. (Poster)
 
