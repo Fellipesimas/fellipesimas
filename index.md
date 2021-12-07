@@ -37,6 +37,8 @@ My native language is portuguese but I have studied english for 5 years during t
 - 2007 - 2012: English course. [CCAA](https://www.ccaa.com.br/), Minas Gerais - Brazil. 
 
 ### Workshops, mini courses and other certifications
+- Biology and diversity of Brazilian deep-sea teleosts
+- Basic fundamentals of R and its application on biology. UNESP, 2021.
 - Open Water Diver. PADI, 2019.
 - Biological and epidemiological aspects of Schistosomiasis, Chagas disease and Dengue. Fiocruz Minas, Brazil, 2019.
 - Marine biology. [IRV Ambiental](https://www.irvambiental.com.br/), Brazil, 2018.
