@@ -2,9 +2,9 @@
 
 e-mail: simas.fellipe@gmail.com
 
-Recently I obtained my Bachelor degree (Bs) at the [Pontifícia Universidade Católicas de Minas Gerais](https://www.pucminas.br/destaques/Paginas/default.aspx) advised by [Eugênio Batista Leite](https://www.linkedin.com/in/eug%C3%AAnio-batista-leite-4310b670/) MSc. During my Biological Sciences undergraduate course, I was also member of [Triatomíneos](http://www.cpqrr.fiocruz.br/pg/pesquisa/grupos-de-pesquisa/22-2/) research laboratory at Fiocruz Minas, in which I was advised by Dr. [Liléia Diotaiuti](https://www.researchgate.net/profile/Lileia-Diotaiuti) and Dr. [Rita de Cássia Moreira](http://www.cpqrr.fiocruz.br/pg/team_member/rita-de-cassia-moreira-de-souza-2/).
+Recently I obtained my Bachelor degree (Bs) at the [Pontifícia Universidade Católicas de Minas Gerais](https://www.pucminas.br/destaques/Paginas/default.aspx) advised by [Eugênio Batista Leite](https://www.linkedin.com/in/eug%C3%AAnio-batista-leite-4310b670/) MSc. During my Biological Sciences undergraduate course, I was also member of [Triatomíneos](http://www.cpqrr.fiocruz.br/pg/pesquisa/grupos-de-pesquisa/22-2/) research laboratory at Fiocruz Minas, in which I was advised by Dr. [Liléia Diotaiuti](https://www.researchgate.net/profile/Lileia-Diotaiuti) and Dr. [Rita de Cássia Moreira](http://www.cpqrr.fiocruz.br/pg/team_member/rita-de-cassia-moreira-de-souza-2/). Currently I am a Zoology Master's student at Federal University of Minas Gerais, and I am currently being advised by Dr. [Lucília Souza Miranda](https://www.researchgate.net/profile/Lucilia-Souza-Miranda), at the Cnidarian biology and evolution lab.
 
-My main research interests are about anthropogenic actions on the environment, specifically about the impacts caused on the ocean due to climate change. I have a big interest on understanding better about the effects of the ocean acidification and how it could warm the organisms' ecology, behavior and biology. I also have a big interest in marine invertebrates' zoology.
+My main research interests are about cnidarians and human impacts on the environment and how they could change the ecosystem's. I have a big interest on understanding better about the effects of the ocean acidification and how it could warm the organisms' ecology, behavior and biology. I also have a big interest in marine invertebrates' zoology.
 
 My native language is portuguese but I have studied english for 5 years during the high school, and now I am studying japanese at the basic level. Also during the high school, I made a computer technician course, so I am a little bit used to html, css and some computer basics. Because of my big interest on marine biology, on 2019 I acquired a Scuba Diving Cerfication by PADI [(Open Water Diver)](https://www.padi.com/courses/open-water-diver?utm_campaign=ww-en-entry-pros-search-seekadventure&utm_source=google.com&utm_medium=cpc&utm_term=ww-en-entry-pros-search-open_water_diver&crid=618705881&gclid=Cj0KCQiAys2MBhDOARIsAFf1D1cLQ-XNde-q6qHI4Da11xG527x7oixgR749vZ-eLyt4LI55FckGnJEaAsD5EALw_wcB).
 
@@ -31,12 +31,14 @@ My native language is portuguese but I have studied english for 5 years during t
 
 
 ## Education
+- 2022 - Current: Zoology master course. UFMG (Federal University of Minas Gerais). Minas Gerais, Brazil.
 - 2021 - Current: Japanese course. [ICO](https://icosite.com.br/) (Asian culture institute). Minas Gerais, Brazil.
 - 2017 - 2021: Bachelor degree in Biological Sciences. PUC Minas, Brazil, Department of Biological Sciences. 
 - 2008 - 2011: Computer technician. [Cotemig High School](https://www.cotemig.com.br/), Brazil. 
 - 2007 - 2012: English course. [CCAA](https://www.ccaa.com.br/), Minas Gerais - Brazil. 
 
 ### Workshops, mini courses and other certifications
+- Japanese Language Proficiency Test - JLPT (日本語能力試験). Japan Foundation, Japan.
 - Biology and diversity of Brazilian deep-sea teleosts. UNESP, 2021.
 - Basic fundamentals of R and its application on biology. UNESP, 2021.
 - Open Water Diver. PADI, 2019.
