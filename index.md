@@ -2,7 +2,7 @@
 
 e-mail: simas.fellipe@gmail.com
 
-Recently I obtained my Bachelor degree (Bs) at the [Pontifícia Universidade Católicas de Minas Gerais](https://www.pucminas.br/destaques/Paginas/default.aspx) advised by [Eugênio Batista Leite](https://www.linkedin.com/in/eug%C3%AAnio-batista-leite-4310b670/) MSc. During my Biological Sciences undergraduate course, I was also member of [Triatomíneos](http://www.cpqrr.fiocruz.br/pg/pesquisa/grupos-de-pesquisa/22-2/) research laboratory at Fiocruz Minas, in which I was advised by Dr. [Liléia Diotaiuti](https://www.researchgate.net/profile/Lileia-Diotaiuti) and Dr. [Rita de Cássia Moreira](http://www.cpqrr.fiocruz.br/pg/team_member/rita-de-cassia-moreira-de-souza-2/). Currently I am a Zoology Master's student at Federal University of Minas Gerais, and I am currently being advised by Dr. [Lucília Souza Miranda](https://www.researchgate.net/profile/Lucilia-Souza-Miranda), at the Cnidarian biology and evolution lab.
+Recently I obtained my Bachelor degree (Bs) at the [Pontifícia Universidade Católicas de Minas Gerais](https://www.pucminas.br/destaques/Paginas/default.aspx) advised by [Eugênio Batista Leite](https://www.linkedin.com/in/eug%C3%AAnio-batista-leite-4310b670/) MSc. During my Biological Sciences undergraduate course, I was also member of [Triatomíneos](http://www.cpqrr.fiocruz.br/pg/pesquisa/grupos-de-pesquisa/22-2/) research laboratory at Fiocruz Minas, in which I was advised by Dr. [Liléia Diotaiuti](https://www.researchgate.net/profile/Lileia-Diotaiuti) and Dr. [Rita de Cássia Moreira](http://www.cpqrr.fiocruz.br/pg/team_member/rita-de-cassia-moreira-de-souza-2/). 
 
 My main research interests are about cnidarians and human impacts on the environment and how they could change the ecosystem's. I have a big interest on understanding better about the effects of the ocean acidification and how it could warm the organisms' ecology, behavior and biology. I also have a big interest in marine invertebrates' zoology.
 
@@ -31,7 +31,6 @@ My native language is portuguese but I have studied english for 5 years during t
 
 
 ## Education
-- 2022 - Current: Zoology master course. UFMG (Federal University of Minas Gerais). Minas Gerais, Brazil.
 - 2021 - Current: Japanese course. [ICO](https://icosite.com.br/) (Asian culture institute). Minas Gerais, Brazil.
 - 2017 - 2021: Bachelor degree in Biological Sciences. PUC Minas, Brazil, Department of Biological Sciences. 
 - 2008 - 2011: Computer technician. [Cotemig High School](https://www.cotemig.com.br/), Brazil. 
