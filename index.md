@@ -64,18 +64,18 @@ My native language is portuguese but I have studied english for 5 years during t
 <b>- 2023 - Current - CERN (Consultoria e Empreendimentos de Recursos Naturais Ltda.)</b>
 - I work in the biotic field, assisting with environmental licensing and contributing to the development and/or revision of technical reports required for the environmental licensing process. These reports include PRADA (Environmental Impact Assessment Plan), PECF (Forest Management Plan), PIA (Environmental Impact Study), as well as reports on the monitoring of fauna and flora. I also contribute to terrestrial and aquatic fauna rescue programs.
 
-- 2022 - 2022 - Turismo Estudantil Viagens Acadêmicas Ltda. 
+<b>- 2022 - 2022 - Turismo Estudantil Viagens Acadêmicas Ltda. </b>
 - Participation in guided tours with students of varying age groups, ranging from elementary to high school. I serve as a biologist, actively engaging in fieldwork with educational objectives.
 
-- 2018 - 2019: Pontifical Catholic University of Minas Gerais, Brazil.
+<b>- 2018 - 2019: Pontifical Catholic University of Minas Gerais, Brazil.</b>
 - Assisting with supplementary studies through tutoring in the course "Invertebrate Non-Coelomate Animals" for the 1st semester, and "Biology of Phanerogams" for the 3rd semester of the Biological Sciences program. All tutoring sessions were conducted in the institution's laboratory, making use of various practical teaching tools, in addition to laboratory organization and equipment preparation for student use.
 
 
-- 2018 - 2019: Fundação Oswaldo Cruz, Brazil.
+<b>- 2018 - 2019: Fundação Oswaldo Cruz, Brazil.</b>
 - All activities were directed towards the execution of the research project titled: "Assessment of domestic infestation by triatomines in the municipality of Espinosa, Minas Gerais." Tasks included cleaning of the triatomine colonies, DNA extraction, PCR, electrophoresis, literature research through online platforms, and the composition of scientific documents.
 
 
-- 2017 - 2018: INOT - Instituto de observação da terra (Earth Observation Institute), Brazil.
+<b>- 2017 - 2018: INOT - Instituto de observação da terra (Earth Observation Institute), Brazil.</b>
 - INOT (Earth Observation Institute) is a NGO that aims the species' conservation at Serra do Cipó and Serra do Espinhaço National Parks through research and environmental education projects. All the activities performed were associated with the Environmental Education project titled "Ecomuseum of Espinhaço: Interpretative Trails in the Serra do Cipó National Park." These activities involved transcribing recorded interviews, reviewing literature on Environmental Education, the Espinhaço Range, and the biodiversity of Serra do Cipó. Additionally, I assisted in creating materials for scientific outreach, which were used in social media publications and on the INOT website.
 
 
