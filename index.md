@@ -61,7 +61,7 @@ My native language is portuguese but I have studied english for 5 years during t
 
 ## Work Experience
 
-- 2023 - Current - CERN (Consultoria e Empreendimentos de Recursos Naturais Ltda.)
+<b>- 2023 - Current - CERN (Consultoria e Empreendimentos de Recursos Naturais Ltda.)</b>
 - I work in the biotic field, assisting with environmental licensing and contributing to the development and/or revision of technical reports required for the environmental licensing process. These reports include PRADA (Environmental Impact Assessment Plan), PECF (Forest Management Plan), PIA (Environmental Impact Study), as well as reports on the monitoring of fauna and flora. I also contribute to terrestrial and aquatic fauna rescue programs.
 
 - 2022 - 2022 - Turismo Estudantil Viagens Acadêmicas Ltda. 
